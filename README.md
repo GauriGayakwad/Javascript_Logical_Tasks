@@ -1,1 +1,0 @@
-# Javascript_Logical_Tasks
